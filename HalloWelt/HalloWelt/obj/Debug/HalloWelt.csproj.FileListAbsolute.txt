@@ -5,3 +5,10 @@ Z:\Udemy\Einführung in C#\Ein Hello World Programm\HalloWelt\HalloWelt\obj\Debu
 Z:\Udemy\Einführung in C#\Ein Hello World Programm\HalloWelt\HalloWelt\obj\Debug\HalloWelt.csproj.CoreCompileInputs.cache
 Z:\Udemy\Einführung in C#\Ein Hello World Programm\HalloWelt\HalloWelt\obj\Debug\HalloWelt.exe
 Z:\Udemy\Einführung in C#\Ein Hello World Programm\HalloWelt\HalloWelt\obj\Debug\HalloWelt.pdb
+Z:\GitHub\Udemy\Einführung in C#\Ein Hello World Programm\HalloWelt\HalloWelt\bin\Debug\HalloWelt.exe.config
+Z:\GitHub\Udemy\Einführung in C#\Ein Hello World Programm\HalloWelt\HalloWelt\bin\Debug\HalloWelt.exe
+Z:\GitHub\Udemy\Einführung in C#\Ein Hello World Programm\HalloWelt\HalloWelt\bin\Debug\HalloWelt.pdb
+Z:\GitHub\Udemy\Einführung in C#\Ein Hello World Programm\HalloWelt\HalloWelt\obj\Debug\HalloWelt.csprojResolveAssemblyReference.cache
+Z:\GitHub\Udemy\Einführung in C#\Ein Hello World Programm\HalloWelt\HalloWelt\obj\Debug\HalloWelt.csproj.CoreCompileInputs.cache
+Z:\GitHub\Udemy\Einführung in C#\Ein Hello World Programm\HalloWelt\HalloWelt\obj\Debug\HalloWelt.exe
+Z:\GitHub\Udemy\Einführung in C#\Ein Hello World Programm\HalloWelt\HalloWelt\obj\Debug\HalloWelt.pdb
