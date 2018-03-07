@@ -1,0 +1,7 @@
+Z:\Udemy\Einführung in C#\Ein Hello World Programm\HalloWelt\HalloWelt\bin\Debug\HalloWelt.exe.config
+Z:\Udemy\Einführung in C#\Ein Hello World Programm\HalloWelt\HalloWelt\bin\Debug\HalloWelt.exe
+Z:\Udemy\Einführung in C#\Ein Hello World Programm\HalloWelt\HalloWelt\bin\Debug\HalloWelt.pdb
+Z:\Udemy\Einführung in C#\Ein Hello World Programm\HalloWelt\HalloWelt\obj\Debug\HalloWelt.csprojResolveAssemblyReference.cache
+Z:\Udemy\Einführung in C#\Ein Hello World Programm\HalloWelt\HalloWelt\obj\Debug\HalloWelt.csproj.CoreCompileInputs.cache
+Z:\Udemy\Einführung in C#\Ein Hello World Programm\HalloWelt\HalloWelt\obj\Debug\HalloWelt.exe
+Z:\Udemy\Einführung in C#\Ein Hello World Programm\HalloWelt\HalloWelt\obj\Debug\HalloWelt.pdb
